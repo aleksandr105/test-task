@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 577,
+    "followers": 100500,
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/1200px-Elon_Musk_Royal_Society.jpg"
+  },
+  {
+    "id": 2,
+    "user": "Milla Jovovich",
+    "tweets": 637,
+    "followers": 100440,
+    "avatar": "https://fwcdn.pl/ppo/03/13/313/450103.2.jpg"
+  },
+  {
+    "id": 3,
+    "user": "John Travolta",
+    "tweets": 237,
+    "followers": 100520,
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/John_Travolta_1997.jpg/640px-John_Travolta_1997.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Cameron Diaz",
+    "tweets": 547,
+    "followers": 102503,
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/2/23/CameronDiazByCarolineRenouard2010.jpg"
+  },
+  {
+    "id": 5,
+    "user": "Sandra Bullock",
+    "tweets": 567,
+    "followers": 100706,
+    "avatar": "https://fwcdn.pl/ppo/01/44/144/449972.2.jpg"
+  },
+  {
+    "id": 6,
+    "user": "Antonio Banderas",
+    "tweets": 777,
+    "followers": 100999,
+    "avatar": "https://ocdn.eu/pulscms-transforms/1/g_8k9kpTURBXy9iZGM2NmI5MmQxOGRmMzYzMDIyMDcyYmQzYzI2ZDQ3MS5qcGeTlQMBAM0Cms0BdpMJpmIxZWM0YgaTBc0EsM0Cdt4AAaEwAQ/antonio-banderas-i-nicole-kimpel.jpg"
+  }
+]
